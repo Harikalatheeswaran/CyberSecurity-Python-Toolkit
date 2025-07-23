@@ -9,9 +9,9 @@ Each folder corresponds to one week of focused training, combining theoretical k
 
 ### 📁 Directory Structure
 ```
-offsec-python-toolkit/
-├── Week01_SocketICMP/             # TCP client/server, ICMP pings, base64 decoder
-├── Week02_.../                    # [Coming soon]
+CyberSecurity-Python-Toolkit/
+├── Week-01_Socket_ICMP_Tools/      # TCP client/server, ICMP pings, base64 decoder
+├── Week-02_.../                    # [Coming soon]
 ...
 ├── Progress.md                    # Weekly tracker and skill roadmap
 └── README.md                      # You're reading it!
@@ -20,7 +20,7 @@ offsec-python-toolkit/
 ---
 
 ## ✅ Week 01 — TCP & ICMP Tools
-Folder: `Week01_SocketICMP/`
+Folder: `Week-01_Socket_ICMP_Tools/`
 
 **Tools Built:**
 - `tcp_server.py`: Echo server using `socket`
