@@ -49,7 +49,7 @@ This repository documents my red teaming journey, showcasing:
 
 ## 🧑‍💻 Author
 **Harikalatheeswaran**  
-System Test Engineer → Aspiring Red Teamer | Python Developer | INFJ-A  
+System Test Engineer → Aspiring Red Teamer | Python Developer
 Mentored by a custom ChatGPT-driven cybersecurity roadmap
 
 ---
